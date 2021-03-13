@@ -1,0 +1,30 @@
+body{
+    background-image: url("pic/beach.jpg");
+    background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+} 
+
+.login-style{
+    margin: 150px ;
+max-width: 700px;
+    float: none;
+}
+h2{
+    color: aqua;
+}
+button{
+    background-color: aqua;
+    color: white;
+}
+
+.left-style{
+    background: rgba(211, 211, 211, .5);
+    padding: 30px;
+}
+
+
+.right-style{
+    background-color: white;
+    padding: 30px;
+}
